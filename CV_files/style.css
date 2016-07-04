@@ -277,7 +277,8 @@ strong, small {
     height: 100%;
     position: absolute;
     overflow: hidden;
-    background-color: rgba(94, 94, 94, 0.47);
+    background: url(background.jpg) #333 40% 40%;
+    background-size: cover;
 }
 
 /* -------------------------
